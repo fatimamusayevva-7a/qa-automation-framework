@@ -2,7 +2,7 @@
 
 A comprehensive test automation framework built with Java, Selenium WebDriver, RestAssured, and TestNG for testing [DemoQA](https://demoqa.com).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Java 17**
 - **Selenium WebDriver 4** — UI test automation
@@ -12,7 +12,7 @@ A comprehensive test automation framework built with Java, Selenium WebDriver, R
 - **Maven** — Build and dependency management
 - **Allure** — Test reporting
 
-## 📁 Project Structure
+##  Project Structure
 src/
 ├── main/java/com/qaframework/
 │   └── pages/
@@ -21,7 +21,7 @@ src/
 │   ├── ui/
 │   └── api/
 └── utils/
-## ✅ Test Cases
+##  Test Cases
 
 ### UI Tests
 - Valid login test
@@ -32,7 +32,7 @@ src/
 - Create new user
 - Get book list
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 mvn test
